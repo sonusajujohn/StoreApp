@@ -1,0 +1,41 @@
+#emp{
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 100px;
+    color: maroon;
+    font-style: oblique;
+    /* box-shadow: 12px 5px 8px 5px; */
+    font-family:'Times New Roman', Times, serif;
+  }
+  .nav1{
+    color: darkred;
+    background-color: lightsteelblue;
+    margin-right: 10px;
+  }
+  .nav2{
+    color: darkred;
+    background-color: lightsteelblue;
+  }
+  .nav1:hover{
+    color: darkslateblue;
+    background-color: lightpink;
+    transition: 1s;
+    padding: 15px;
+  
+  }
+  .nav2:hover{
+    color: darkslateblue;
+    background-color: lightpink;
+    transition: 1s;
+    padding: 15px;
+  
+  }
+  #tb{
+    font-size: 20px;
+  
+  }
+  .table1{
+    border: 2px double black;
+    box-shadow: 10px 5px 10px 5px black;
+    margin-top: -50px;
+  }
